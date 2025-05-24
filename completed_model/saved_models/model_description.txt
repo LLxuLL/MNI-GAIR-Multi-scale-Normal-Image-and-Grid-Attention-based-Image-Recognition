@@ -1,0 +1,1 @@
+Folder of training weight files for the multi-recognition module
