@@ -1,0 +1,28 @@
+MNI-GAIR-main [MNG-main]
+├── completed_model
+│   ├── datasets
+│   │   ├── Normal
+│   │   ├── Points
+│   │   └── RGB
+│   ├── saved_files
+│   ├── saved_models
+│   ├── single_test_image
+│   │
+│   ├── main.py
+│   ├── normal_generator.py
+│   ├── normal_predict.py
+│   ├── normal_train.py
+│   ├── point_cloud_fitting.py
+│   ├── point_cloud_generator.py
+│   ├── point_cloud_predict.py
+│   ├── point_cloud_train.py
+│   ├── rgb_predict.py
+│   ├── rgb_train.py
+│   ├── show_ply_points.py
+│   ├── show_ply_space.py
+│   ├── top1_outputer.py
+│   ├── top1_outputer2.py
+│   ├── top1_outputer3.py
+│   └── united_predict.py
+│
+└── README.md
